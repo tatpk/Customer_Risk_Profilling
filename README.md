@@ -1,4 +1,4 @@
-# 📊 Credit Risk Profiling & Customer Segmentation
+# Customer Analytics for Credit Risk Profiling & Behavioral Segmentation
 
 ## 📌 Project Overview
 This project applies **K-Means Clustering** to segment credit card customers based on their financial behaviors, such as spending habits, cash advance usage, and repayment capacity. The goal is to provide **Actionable Business Recommendations** for risk mitigation, debt management, and revenue growth.
